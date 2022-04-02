@@ -1,0 +1,158 @@
+{
+   "data":{
+      "blogs":{
+         "edges":[
+            {
+               "node":{
+                  "handle":"notizie",
+                  "id":"Z2lkOi8vc2hvcGlmeS9CbG9nLzgwNzkzNTM0NjE4",
+                  "title":"Notizie",
+                  "articles":{
+                     "edges":[
+                        {
+                           "node":{
+                              "content":"Vi è mai capitato di chiedervi se vi state impegnando abbastanza?",   
+                              "contentHtml":"<p><span style=\"font-weight: 400;\">Vi è mai capitato di chiedervi se vi state impegnando abbastanza?",
+                              "excerpt":"Vi è mai capitato di chiedervi se vi state impegnando abbastanza?",
+                              "excerptHtml":"<p><span style=\"font-weight: 400;\">Vi è mai capitato di chiedervi se vi state impegnando abbastanza?",
+                              "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlLzU1NjgzNzE3NTQ1MA==",
+                              "handle":"vi-e-mai-capitato",
+                              "publishedAt":"2021-08-22T22:07:16Z",
+                              "tags":[
+                                 
+                              ],
+                              "title":"Impegno",
+                              "image":{
+                                 "transformedSrc":"https://example.com/c2246_700x.jpg",
+                                 "originalSrc":"https://example.com/c2246_700x.jpg",
+                                 "altText":"",
+                                 "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlSW1hZ2UvMTA2MTMyNTM3NDk4"
+                              }
+                           }
+                        }
+                     ]
+                  }
+               }
+            },
+            {
+               "node":{
+                  "handle":"partners",
+                  "id":"Z2lkOi8vc2hvcGlmeS9CbG9nLzgwODAxNzkyMTU0",
+                  "title":"Partners",
+                  "articles":{
+                     "edges":[
+                        {
+                           "node":{
+                              "content":"",
+                              "contentHtml":"",
+                              "excerpt":"",
+                              "excerptHtml":"",
+                              "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlLzU1Njc1MTM4ODgyNg==",
+                              "handle":"partner-1",
+                              "publishedAt":"2021-08-10T15:11:43Z",
+                              "tags":[
+                                 "partner"
+                              ],
+                              "title":"Partner1",
+                              "image":{
+                                 "transformedSrc":"https://example.com/logo1_700x.jpg",
+                                 "originalSrc":"https://example.com/logo1_700x.jpg",
+                                 "altText":"",
+                                 "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlSW1hZ2UvMTA2MTMyNjM1ODAy"
+                              }
+                           }
+                        },
+                        {
+                           "node":{
+                              "content":"",
+                              "contentHtml":"",
+                              "excerpt":"",
+                              "excerptHtml":"",
+                              "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlLzU1NzE3MDgxOTIyNg==",
+                              "handle":"partner-2",
+                              "publishedAt":"2021-10-12T01:13:10Z",
+                              "tags":[
+                                 
+                              ],
+                              "title":"Partner 2",
+                              "image":{
+                                 "transformedSrc":"https://example.com/logo2_700x.jpg",
+                                 "originalSrc":"https://example.com/logo2_700x.jpg",
+                                 "altText":"",
+                                 "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlSW1hZ2UvMTA2MTMyNjY4NTcw"
+                              }
+                           }
+                        }
+                     ]
+                  }
+               }
+            },
+            {
+               "node":{
+                  "handle":"staff",
+                  "id":"Z2lkOi8vc2hvcGlmeS9CbG9nLzgwODEzNTU1ODY2",
+                  "title":"Staff",
+                  "articles":{
+                     "edges":[
+                        {
+                           "node":{
+                              "content":"---team--- Founders ---profile--- CEO ---email--- giovanni@example.com ---linkedin--- https://www.linkedin.com/in/giovanni/",
+                              "contentHtml":"<meta charset=\"utf-8\"><meta charset=\"utf-8\">\n<p> </p>\n<p>---team---</p>\n<p>Founders</p>\n<p>---profile---</p>\n<p>CEO</p>\n<p>---email---</p>\n<p>giovanni@example.com</p>\n<p>---linkedin---</p>\n<p>https://www.linkedin.com/in/giovanni/</p>",
+                              "excerpt":"“I pessimisti si lamentano del vento, gli ottimisti sperano che cambi direzione e i leader aggiustano le vele.” J. Maxwel",
+                              "excerptHtml":"<meta charset=\"utf-8\">\n<p><em><em><em>“I pessimisti si lamentano del vento, gli ottimisti sperano che cambi direzione e i leader aggiustano le vele.”</em></em></em></p>\n<p><strong>J. Maxwel</strong></p>",
+                              "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlLzU1NjgzNzMwNjUyMg==",
+                              "handle":"giovanni",
+                              "publishedAt":"2021-08-22T22:31:44Z",
+                              "tags":[
+                                 
+                              ],
+                              "title":"Giovanni",
+                              "image":{
+                                 "transformedSrc":"https://example.com/Giovanni_700x.jpg?v=1631753999",
+                                 "originalSrc":"https://example.com/Giovanni_700x.jpg?v=1631753999",
+                                 "altText":"",
+                                 "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlSW1hZ2UvMTA1OTU2NzA0NDEw"
+                              }
+                           }
+                        },
+                        {
+                           "node":{
+                              "content":"---team--- Founders ---profile--- - ---email--- pietro@example.com ---linkedin--- https://www.linkedin.com/in/pietro",
+                              "contentHtml":"<p> </p>\n<p>---team---</p>\n<p>Founders</p>\n<p>---profile---</p>\n<p>-</p>\n<p>---email---</p>\n<p>pietro@example.com</p>\n<p>---linkedin---</p>\n<p>https://www.linkedin.com/in/pietro/</p>",
+                              "excerpt":"“Impossibile non è un dato di fatto, è un'opinione. Impossibile non è una regola, è una sfida. Impossibile non è uguale per tutti. Impossibile non è per sempre.” M. Ali",
+                              "excerptHtml":"<meta charset=\"utf-8\"><meta charset=\"utf-8\">\n<p><em>“Impossibile non è un dato di fatto, è un'opinione. Impossibile non è una regola, è una sfida. Impossibile non è uguale per tutti. Impossibile non è per sempre.”</em></p>\n<p><strong>M. Ali</strong></p>",
+                              "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlLzU1NjgzNzMzOTI5MA==",
+                              "handle":"pietro",
+                              "publishedAt":"2021-08-22T22:35:03Z",
+                              "tags":[
+                                 
+                              ],
+                              "title":"Pietro",
+                              "image":{
+                                 "transformedSrc":"https://example.com/Pietro_700x.jpg",
+                                 "originalSrc":"https://example.com/Pietro_700x.jpg",
+                                 "altText":"",
+                                 "id":"Z2lkOi8vc2hvcGlmeS9BcnRpY2xlSW1hZ2UvMTA1OTU2NjcxNjQy"
+                              }
+                           }
+                        },
+                     ]
+                  }
+               }
+            },
+            {
+               "node":{
+                  "handle":"posizioni",
+                  "id":"Z2lkOi8vc2hvcGlmeS9CbG9nLzgwODE0MzA5NTMw",
+                  "title":"Posizioni",
+                  "articles":{
+                     "edges":[
+                        
+                     ]
+                  }
+               }
+            }
+         ]
+      }
+   }
+}

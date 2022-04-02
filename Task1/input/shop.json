@@ -1,0 +1,43 @@
+{
+   "data":{
+      "shop":{
+         "name":"Website",
+         "description":"",
+         "paymentSettings":{
+            "acceptedCardBrands":[
+               "VISA",
+               "MASTERCARD",
+               "AMERICAN_EXPRESS"
+            ],
+            "cardVaultUrl":"https://example.com/sessions",
+            "countryCode":"IT",
+            "currencyCode":"EUR",
+            "enabledPresentmentCurrencies":[
+               "EUR"
+            ],
+            "shopifyPaymentsAccountId":null,
+            "supportedDigitalWallets":[
+               "SHOPIFY_PAY",
+               "APPLE_PAY",
+               "GOOGLE_PAY"
+            ]
+         },
+         "privacyPolicy":{
+            "body":"<div id=\"MathJax_Message\" style=\"display: none;\"></div>\n<h1>INFORMATIVA PRIVACY – NAVIGAZIONE</h1>\n",
+            "handle":"privacy-policy",
+            "id":"Z2lkOi8vc2hvcGlmeS9TaG9wUG9saWN5LzI0NzI3ODc5ODM0",
+            "title":"Privacy Policy",
+            "url":"https://example.com/policies/1.html?locale=it"
+         },
+         "refundPolicy":null,
+         "shippingPolicy":null,
+         "termsOfService":{
+            "body":"<div id=\"MathJax_Message\" style=\"display: none;\"></div>\n<h1>TERMS</h1>\n",
+            "handle":"terms-of-service",
+            "title":"Terms of Service",
+            "id":"Z2lkOi8vc2hvcGlmeS9TaG9wUG9saWN5LzI0NzI3OTEyNjAy",
+            "url":"https://example.com/policies/2.html?locale=it"
+         }
+      }
+   }
+}
