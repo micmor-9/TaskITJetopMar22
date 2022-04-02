@@ -1,0 +1,18 @@
+{
+   "data":{
+      "page":{
+         "id":"Z2lkOi8vc2hvcGlmeS9QYWdlLzg5MTcxMjk2NDEw",
+         "body":"<p>Testo di esempio</p>\n<p>---company_title---</p>\n<p>Nome azienda</p>\n<p>---company_text---</p>\n<p>Dati sull'azienda</p>\n<p>---company_image---</p>\n<p><img src=\"https://example.com/es1024x1024.jpg\" alt=\"\"></p>\n",
+         "createdAt":"2021-08-25T08:25:13Z",
+         "handle":"home",
+         "bodySummary":"Dati sull'azienda",
+         "updatedAt":"2021-10-07T13:38:45Z",
+         "url":"https://example.com/pages/home",
+         "title":"Home",
+         "seo":{
+            "description":null,
+            "title":"Home | Example"
+         }
+      }
+   }
+}

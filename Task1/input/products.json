@@ -1,0 +1,109 @@
+{
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "descriptionHtml": "",
+            "description": "",
+            "title": "Prodotto",
+            "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY5NDM1Mjg2NDg4NTg=",
+            "handle": "prodotto",
+            "productType": "Prova",
+            "vendor": "Example",
+            "seo": {
+              "description": "prodotto-seo",
+              "title": null
+            },
+            "priceRange": {
+              "maxVariantPrice": {
+                "amount": "0.01"
+              },
+              "minVariantPrice": {
+                "amount": "0.01"
+              }
+            },
+            "metafields": {
+              "edges": [
+                {
+                  "node": {
+                    "namespace": "custom_fields",
+                    "value": "120000",
+                    "key": "surface",
+                    "type": "number_integer"
+                  }
+                },
+                {
+                  "node": {
+                    "namespace": "custom_fields",
+                    "value": "Trentino",
+                    "key": "region",
+                    "type": "single_line_text_field"
+                  }
+                }
+              ]
+            },
+            "images": {
+              "edges": [
+                {
+                  "node": {
+                    "originalSrc": "https://example.com/image1.jpg",
+                    "transformedSrc": "https://example.com/image1_700x.jpg",
+                    "altText": null,
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMzE0NDc1NDcwMTk0MTg="
+                  }
+                },
+                {
+                  "node": {
+                    "originalSrc": "https://example.com/image2.jpp",
+                    "transformedSrc": "https://example.com/image2_700x.jpg",
+                    "altText": null,
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMzE0NDc1NDc1MTA5Mzg="
+                  }
+                }
+              ]
+            },
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0VmFyaWFudC80MDc3NTM5Njg1MTg2Ng==",
+                    "sku": "Hero",
+                    "price": "0.01",
+                    "metafields": {
+                      "edges": [
+                        {
+                          "node": {
+                            "namespace": "custom",
+                            "value": "4",
+                            "key": "surface",
+                            "type": "number_integer"
+                          }
+                        },
+                        {
+                          "node": {
+                            "namespace": "custom",
+                            "value": "Descrizione",
+                            "key": "description",
+                            "type": "multi_line_text_field"
+                          }
+                        }
+                      ]
+                    },
+                    "title": "Hero",
+                    "image": {
+                      "transformedSrc": "https://example.com/image2_700x.jpg",
+                      "originalSrc": "https://example.com/image2.jpg",
+                      "altText": null,
+                      "id": "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0SW1hZ2UvMzE0NDc1NDc1MTA5Mzg="
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  }
+}
